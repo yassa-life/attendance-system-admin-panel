@@ -95,4 +95,8 @@ A web-based attendance and employee management system featuring face recognition
 
 ## License
 
+<<<<<<< HEAD
 This project is for educational purposes. Please review and adapt for production use. 
+=======
+This project is for educational purposes. Please review and adapt for production use. 
+>>>>>>> 61dd073d36e3915021be49bbeedffc2fcd8771f9
