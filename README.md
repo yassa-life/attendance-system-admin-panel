@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edu Authorities Student Management System
 
 A web-based attendance and employee management system featuring face recognition, RFID, leave management, and detailed work analysis. Built with PHP and MySQL, it provides a modern dashboard for admins and employees.
@@ -100,3 +101,6 @@ This project is for educational purposes. Please review and adapt for production
 =======
 This project is for educational purposes. Please review and adapt for production use. 
 >>>>>>> 61dd073d36e3915021be49bbeedffc2fcd8771f9
+=======
+# attendance-system-admin-panel
+>>>>>>> 6faa9673a3e56ee237096e90d1b59330031880bd
