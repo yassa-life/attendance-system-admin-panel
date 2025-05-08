@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Edu Authorities Student Management System
 
 A web-based attendance and employee management system featuring face recognition, RFID, leave management, and detailed work analysis. Built with PHP and MySQL, it provides a modern dashboard for admins and employees.
